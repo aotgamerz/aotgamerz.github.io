@@ -1,10 +1,12 @@
 .fbutton{
   color: goldenrod;
-  padding: 10px 15px;
   background: transparent;
-  border: 2px solid lightgray;
-  border-radius: 20px;
-  outline: none;
+  padding: 5px 10px; 
+  text-align: center;
+  display: inline-block; 
+  font-size: 20px; 
+  margin: 10px 30px; 
+  cursor: pointer; 
  }
 
 .fbutton:hover {
