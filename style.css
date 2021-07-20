@@ -8,17 +8,18 @@
   font-size: 20px; 
   border-radius: 2px;
   margin: auto;
-  width: 100%;
-  font-family: 'VT323', monospace;
+  width: 85%;
+  font-family: "VT323";
   hiegth: 6px;
   cursor: pointer; 
  }
 
 .fbutton:hover {
   color: black;
-  background: green;
+  background: lime;
   border-radius: 2px;
   transition-delay: 0.2s;
+  font-family: "VT323";
   border-radius: 2px;
 
 }
