@@ -1,27 +1,25 @@
 
 .fbutton{
-  color: goldenrod;
-  background: transparent;
+  color: white;
+  background: #777777;
   padding: 5px 10px; 
   text-align: center;
   display: inline-block; 
   font-size: 20px; 
-  border-radius: 12px;
+  border-radius: 2px;
   margin: auto;
   width: 100%;
+  font-family: 'VT323', monospace;
   hiegth: 6px;
   cursor: pointer; 
  }
 
 .fbutton:hover {
-  color: red;
-  color: goldenrod;
-  background: #2196f3;
-  border-radius: 12px;
-  box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
-  transition-delay: 0.1s;
-  border-radius: 14px;
-  box-shadow: 0 12px 16px 0 rgba(74,249,31,1.24), 0 17px 50px 0 rgba(74,249,31,1);
+  color: black;
+  background: green;
+  border-radius: 2px;
+  transition-delay: 0.2s;
+  border-radius: 2px;
 
 }
 h4 {
