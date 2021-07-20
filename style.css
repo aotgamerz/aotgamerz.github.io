@@ -1,26 +1,27 @@
 
 .fbutton{
   color: white;
-  background: #777777;
+  background: black;
   padding: 0; 
   text-align: center;
   display: inline-block; 
   font-size: 20px; 
   border-radius: 5px;
-  margin: 0;
+  margin: 2px;
   width: 65%;
-  font-family: "BPDOTSUNICASEBOLD";
+  font-family: "CC Overbyte";
   hiegth: 6px;
   cursor: pointer; 
  }
 
 .fbutton:hover {
   color: black;
-  background: lime;
+  background: goldenrod;
   border-radius: 5px;
   transition-delay: 0.1s;
-  font-family: "BPDOTSUNICASEBOLD";
+  font-family: "CC Overbyte";
   border-radius: 5px;
+  box-shadow: goldenrod 5px;
 
 }
 h4 {
