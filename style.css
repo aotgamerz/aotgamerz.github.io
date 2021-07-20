@@ -6,9 +6,9 @@
   text-align: center;
   display: inline-block; 
   font-size: 20px; 
-  border-radius: 5px;
+  border-radius: 7px;
   margin: 2px;
-  width: 65%;
+  width: 100%;
   font-family: "CC Overbyte";
   hiegth: 6px;
   cursor: pointer; 
@@ -21,8 +21,7 @@
   transition-delay: 0.1s;
   font-family: "CC Overbyte";
   border-radius: 5px;
-  box-shadow: goldenrod 5px;
-
+  box-shadow: 5px 10px goldenrod;
 }
 h4 {
   background-color: #00ffff
