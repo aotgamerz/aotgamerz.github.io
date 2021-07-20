@@ -108,7 +108,7 @@ input#openSidebarMenu{
 }
 .spinner {
     height: 3px;
-    background-color: #fff;
+    background-color: black;
     transition: all 0.3s;
 }
 .spinner.middle ,
