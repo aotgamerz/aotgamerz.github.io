@@ -1,8 +1,9 @@
-.futton1 {width: 80%;}
+
 .fbutton{
   color: goldenrod;
   background: transparent;
   padding: 5px 10px; 
+  width: 100px;
   text-align: center;
   display: inline-block; 
   font-size: 20px; 
